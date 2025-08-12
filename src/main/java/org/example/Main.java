@@ -44,6 +44,8 @@ public class Main {
 //        normalCharacter.takeDamage(100);
 //        armoredCharacter.takeDamage(100);
 
-
+        //4.Inheriting Variables & Access Rules
+        CheckingAccount myChecking = new CheckingAccount(100.0);
+        myChecking.deductMonthlyFee();
     }
 }

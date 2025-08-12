@@ -52,7 +52,6 @@ Opening a generic file.<br>
 ![image_info](./media/ex3.png)
 ### Mini Challenge Code:
 ![image_info](./media/ex3MC-code.png)
-
 ### Mini Challenge Output:
 ![image_info](./media/ex3MC-output.png)
 
@@ -61,7 +60,7 @@ Opening a generic file.<br>
 
 ## Exercise 4: Inheriting Variables & Access Rules
 ### Prediction:
-
+The code will not compile since the balance variable in the parent subclass is set to private which is not inherited by the child class.<br>
 ### Observation:
 ![image_info](./media/ex4.png)
 ### Mini Challenge Code:
