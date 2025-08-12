@@ -14,6 +14,17 @@ public class Main {
 //        myBicycle.ringBell();
 
         //2. Abstract Classes: Defining a Template
+        Circle myCircle = new Circle();
+        System.out.println(myCircle.display());
+
+        Rectangle myRectangle = new Rectangle();
+        System.out.println(myRectangle.display());
+        //Mini Challenge
+        Dog myDog = new Dog();
+        System.out.println(myDog.breathe());
+        System.out.println(myDog.makeSound());
+
+        //3. Method Overriding: Providing a New Implementation
 
 
 

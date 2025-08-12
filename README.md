@@ -19,7 +19,8 @@ I am a Generic Vehicle Mustang<br>
 ## Exercise 2: Abstract Classes: Defining a Template
 ### Prediction:
 <code>
-
+The area is: 78.53981633974483<br>
+The area is: 24.0<br>
 </code>
 
 ### Observation:
