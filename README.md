@@ -35,6 +35,18 @@ The area is: 24.0<br>
 
 ## Exercise 3: Method Overriding: Providing a New Implementation
 ### Prediction:
+<code>
+--- Regular Editor ---<br>
+Opening a generic file.<br>
+<br>
+--- Code Editor ---<br>
+Applying syntax highlighting...<br>
+Opening a generic file.<br>
+<br>
+--- Polymorphic Editor ---<br>
+Applying syntax highlighting...<br>
+Opening a generic file.<br>
+</code>
 
 ### Observation:
 ![image_info](./media/ex3.png)
